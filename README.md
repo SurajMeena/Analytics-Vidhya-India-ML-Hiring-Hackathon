@@ -37,4 +37,5 @@ sample_submission.zip contains the submission format for the predictions against
 ## Evaluation Metric
 Submissions are evaluated on F1-Score between the predicted class and the observed target.
  
-# F1-Score: 0.30
+# F1-Score: 0.3916
+# Rank - 377
